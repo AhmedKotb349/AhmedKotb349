@@ -215,7 +215,7 @@ Open for freelance work, backed by the projects above:
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=AhmedKotb349&theme=tokyonight&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-trophies.devomb.com/?username=AhmedKotb349&theme=tokyonight&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
