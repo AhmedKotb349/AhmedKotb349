@@ -31,19 +31,29 @@ const ahmed = {
   status:      "Seeking Internship · Open to Freelance Work",
 
   languages:   ["C", "Java", "JavaScript", "Python", "PHP", "Kotlin", "SQL", "Assembly (MARIE)"],
-  frontend:    ["HTML5", "CSS3", "React", "JavaFX", "Bootstrap"],
+  frontend:    ["HTML5", "CSS3", "React", "JavaFX", "Bootstrap", "TypeScript", "Angular"],
   backend:     ["Node.js", "Express", "PHP", "MongoDB"],
   databases:   ["MySQL", "Oracle SQL"],
   os:          ["Linux", "Kali Linux", "Ubuntu"],
-  security:    ["Web App Security Assessment", "Vulnerability Reporting", "Wireshark", "Penetration Testing"],
+  security:    ["Web App Security Assessment", "OWASP Top 10", "Burp Suite", "Nessus", "OpenVAS", "Wireshark"],
 
-  certifications: ["AWS AI Practitioner", "AI & Prompt Engineering Scholarship (ICTHub)", "NTI AI Ambassadors"],
-  currentlyLearning: ["Penetration Testing & Application Security (NTI)", "Angular (ITI)", "Advanced React", "Docker & Cloud"],
+  certifications: ["AWS AI Practitioner", "AI & Prompt Engineering Scholarship (ICTHub)", "NTI AI Ambassadors", "NTI Penetration Testing & Application Security"],
+  currentlyLearning: ["Advanced React (Redux, Testing)", "Docker & Cloud"],
   funFact:     "I write code in Arabic and English — my bugs are bilingual too 😄"
 };
 ```
 
 ---
+
+## ⚡ Skills at a Glance
+
+<div align="center">
+
+[![My Skills](https://skillicons.dev/icons?i=c,java,js,python,php,kotlin,ts,html,css,react,angular,nodejs,express,mongodb,mysql,linux,kali,git,figma,androidstudio&theme=dark)](https://skillicons.dev)
+
+</div>
+
+*Hover-friendly, clickable icons — click any one to jump to its docs.*
 
 ## 🛠️ Tech Stack
 
@@ -54,6 +64,7 @@ const ahmed = {
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Assembly](https://img.shields.io/badge/Assembly_MARIE-555555?style=for-the-badge&logo=assemblyscript&logoColor=white)
 
@@ -61,6 +72,7 @@ const ahmed = {
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![JavaFX](https://img.shields.io/badge/JavaFX-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Responsive](https://img.shields.io/badge/Responsive_Design-38BDF8?style=for-the-badge&logo=css3&logoColor=white)
@@ -80,16 +92,25 @@ const ahmed = {
 ![PM](https://img.shields.io/badge/Project_Management-6366f1?style=for-the-badge&logo=jira&logoColor=white)
 ![SDLC](https://img.shields.io/badge/SDLC-0ea5e9?style=for-the-badge&logo=git&logoColor=white)
 ![AI](https://img.shields.io/badge/AI_Prompt_Engineering-ec4899?style=for-the-badge&logo=openai&logoColor=white)
+![Freelancing](https://img.shields.io/badge/Freelancing-14b8a6?style=for-the-badge&logo=upwork&logoColor=white)
 
 ### 🖥️ OS & Security
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![OWASP](https://img.shields.io/badge/OWASP_Top_10-000000?style=for-the-badge&logo=owasp&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
+![Nessus](https://img.shields.io/badge/Nessus-00A551?style=for-the-badge&logoColor=white)
+![OpenVAS](https://img.shields.io/badge/OpenVAS-2E9CCA?style=for-the-badge&logoColor=white)
 ![Cybersecurity](https://img.shields.io/badge/Cybersecurity-00D9FF?style=for-the-badge&logo=hackthebox&logoColor=black)
 
 ### ☁️ AI & Cloud
 ![AWS](https://img.shields.io/badge/AWS_AI_Practitioner-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![PartyRock](https://img.shields.io/badge/AWS_PartyRock-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Generative AI](https://img.shields.io/badge/Generative_AI-8b5cf6?style=for-the-badge&logo=openai&logoColor=white)
+![NLP](https://img.shields.io/badge/NLP-06b6d4?style=for-the-badge&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
 ---
 
@@ -98,10 +119,10 @@ const ahmed = {
 | Certification | Issuer | Status |
 |---|---|---|
 | ☁️ **AWS AI Practitioner** | Udacity | ✅ Certified — [Verify](https://www.udacity.com/certificate/e/2f9f278a-3b6a-11f1-b7b7-27ea7002c679) |
-| 🎓 **AI & Prompt Engineering Scholarship** | ICTHub Egypt | ✅ Certified |
-| 🧠 **NTI AI Ambassadors** | National Telecommunication Institute | ✅ Completed (certificate pending) |
-| 🛡️ **Penetration Testing & Application Security** | National Telecommunication Institute | 🔄 In Progress |
-| 🅰️ **Angular Development** | Information Technology Institute | 🔄 In Progress |
+| 🎓 **AI & Prompt Engineering Scholarship** | ICTHub Egypt | ✅ Certified, May 8, 2026 — [View](https://ahmedkotb349.github.io/ICTHUB.pdf) |
+| 🧠 **NTI AI Ambassadors** | National Telecommunication Institute | ✅ Certified, Sep 5, 2026 — [View](https://ahmedkotb349.github.io/NTI_Ambassadors.pdf) |
+| 🛡️ **Penetration Testing & Application Security** | National Telecommunication Institute | ✅ Certified, Sep 22, 2026 — [View](https://ahmedkotb349.github.io/NTI_PeneTest.pdf) |
+| 🅰️ **Angular Development** | Information Technology Institute | ✅ Completed (certificate pending) |
 
 ---
 
@@ -198,16 +219,78 @@ Open for freelance work, backed by the projects above:
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=AhmedKotb349&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedKotb349&layout=compact&langs_count=8&theme=tokyonight"/>
+<img height="195em" src="https://github-readme-stats.vercel.app/api?username=AhmedKotb349&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&rank_icon=github&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage"/>
+<img height="195em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedKotb349&layout=compact&langs_count=12&theme=tokyonight&hide_progress=false"/>
 
 </div>
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=AhmedKotb349&theme=tokyonight&border_radius=10)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=AhmedKotb349&theme=tokyonight&border_radius=10&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 </div>
+
+<div align="center">
+
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AhmedKotb349&theme=tokyonight"/>
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AhmedKotb349&theme=tokyonight"/>
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AhmedKotb349&theme=tokyonight"/>
+
+</div>
+
+<div align="center">
+
+<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AhmedKotb349&theme=tokyonight"/>
+<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AhmedKotb349&theme=tokyonight&utcOffset=2"/>
+
+</div>
+
+---
+
+## 📈 Activity Graph
+
+<div align="center">
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AhmedKotb349&theme=tokyo-night&hide_border=true&area=true)
+
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+![Snake animation](https://raw.githubusercontent.com/AhmedKotb349/AhmedKotb349/output/github-contribution-grid-snake.svg)
+
+</div>
+
+> ⚙️ **One-time setup needed:** this animation is generated by a GitHub Action, not a static image — it won't render until you add the workflow below.
+> 1. In this repo, create `.github/workflows/snake.yml` with:
+> ```yaml
+> name: Generate Snake
+> on:
+>   schedule:
+>     - cron: "0 0 * * *"
+>   workflow_dispatch:
+>   push:
+>     branches: [ main ]
+> jobs:
+>   generate:
+>     runs-on: ubuntu-latest
+>     steps:
+>       - uses: Platane/snk@v3
+>         with:
+>           github_user_name: AhmedKotb349
+>           outputs: dist/github-contribution-grid-snake.svg
+>       - uses: crazy-max/ghaction-github-pages@v4
+>         with:
+>           target_branch: output
+>           build_dir: dist
+>         env:
+>           GITHUB_TOKEN: ${{ '{{' }} secrets.GITHUB_TOKEN {{ '}}' }}
+> ```
+> 2. Commit it, then run the workflow once manually (Actions tab → Generate Snake → Run workflow). After that it updates itself daily.
 
 ---
 
@@ -215,7 +298,7 @@ Open for freelance work, backed by the projects above:
 
 <div align="center">
 
-[![trophy](https://github-trophies.devomb.com/?username=AhmedKotb349&theme=tokyonight&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-trophies.devomb.com/?username=AhmedKotb349&theme=tokyonight&row=2&column=5&margin-w=12&margin-h=12)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
@@ -224,8 +307,6 @@ Open for freelance work, backed by the projects above:
 ## 🌱 Currently Learning
 
 ```
-🛡️  Penetration Testing & Application Security — NTI
-🅰️  Angular Development — ITI
 ⚛️  Advanced React — Redux, Testing, Performance Optimization
 🐳 Docker & DevOps Fundamentals
 ☁️  Cloud Computing Basics
