@@ -247,26 +247,6 @@ Open for freelance work, backed by the projects above:
 
 ---
 
-## 📈 Activity Graph
-
-<div align="center">
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AhmedKotb349&theme=tokyo-night&hide_border=true&area=true)
-
-</div>
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-
-![Snake animation](https://raw.githubusercontent.com/AhmedKotb349/AhmedKotb349/output/github-contribution-grid-snake.svg)
-
-</div>
-
----
-
 ## 🏆 GitHub Trophies
 
 <div align="center">
